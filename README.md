@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/Javascript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/c++-brightgreen?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/java-green?style=flat-square&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C++-brightgreen?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-green?style=flat-square&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 
 </p>
