@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center">🌞SSUN🌞</p>
+<h3 align="center">🌞SSUN🌞</p>
 
 <p align="center">
 <a href="https://velog.io/@daniel4647"><img src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@daniel4647"/></a>&nbsp
