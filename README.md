@@ -24,7 +24,7 @@
 <p align="center">
 <a href="https://velog.io/@daniel4647"><img src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@daniel4647"/></a>&nbsp
 <a href="https://www.instagram.com/seonhwan52/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seonhwan52/"/></a>&nbsp
-<a href="mailto:rlatjsghks4647@naver.com"><img src="https://img.shields.io/badge/Mail-FC6B4C?style=flat-square&logo=Instagram&logoColor=white&link=mailto:rlatjsghks4647@naver.com"/></a>&nbsp
+<a href="mailto:rlatjsghks4647@naver.com"><img src="https://img.shields.io/badge/Mail-FC6B4C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlatjsghks4647@naver.com"/></a>&nbsp
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeonHwan-Kim&show_icons=true&theme=tokyonight)](https://github.com/SeonHwan-Kim/github-readme-stats)
