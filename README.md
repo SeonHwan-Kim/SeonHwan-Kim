@@ -9,13 +9,15 @@
 <img src="https://img.shields.io/badge/html-blue?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/css-red?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-img src="https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-img src="https://img.shields.io/badge/c++-brightgreen?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
-img src="https://img.shields.io/badge/java-green?style=flat-square&logoColor=white"/></a>&nbsp
-img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/c++-brightgreen?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/java-green?style=flat-square&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 
 </p>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeonHwan-Kim&show_icons=true&theme=tokyonight)](https://github.com/SeonHwan-Kim/github-readme-stats)
 
 
