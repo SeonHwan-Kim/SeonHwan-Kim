@@ -31,4 +31,13 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daniel4647)](https://solved.ac/daniel4647)
 
+---
 
+<h3 align="center">💻What I Do💻</p>
+<h4>학복위</p>
+
+> 2022.07~
+
+<h4>terrace reserve service</p>
+
+> 2022.08~
