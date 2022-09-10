@@ -34,7 +34,7 @@
 ---
 
 <h3 align="center">💻What I Do💻</p>
-<h4>학복위</p>
+<h4>rental service app</p>
 
 > 2022.07~
 
