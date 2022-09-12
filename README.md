@@ -41,5 +41,5 @@
 <h4>terrace reserve service</p>
 
 > 2022.08~
-> > 🛠 : https://github.com/Soongsil-Developers/terrace-web
-> > 💻 : 
+> > 🛠 : https://github.com/Soongsil-Developers/terrace-web </p>
+> > 💻 : https://reserve-terrace.netlify.app/
