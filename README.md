@@ -41,3 +41,4 @@
 <h4>terrace reserve service</p>
 
 > 2022.08~
+> https://github.com/Soongsil-Developers/terrace-web
