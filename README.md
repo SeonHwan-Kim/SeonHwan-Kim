@@ -32,7 +32,7 @@
 <h3 align="center">💻What I Do💻</p>
 <h4>rental service app</p>
 
-> 2022.07~
+> 2022.07.14~
 > > 🛠️ : https://github.com/ssuperpower-developer/SSUTHING
 
 <h4>terrace reserve service</p>
