@@ -41,7 +41,7 @@
 > > 🛠 : https://github.com/Soongsil-Developers/terrace-web </p>
 > > 💻 : https://reserve-terrace.netlify.app/
 
-<h4>BokseulBokseul </p>
+<h4>DrugDiary </p>
 
 > 2022.09.22~
 > > 🛠 : https://github.com/Team-BokseulBokseul </p>
