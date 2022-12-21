@@ -43,8 +43,8 @@
 
 <h4>DrugDiary </p>
 
-> 2022.09.22~
-> > 🛠 : https://github.com/Team-BokseulBokseul </p>
+> 2022.10.06 ~ 2022.12.08
+> > 🛠 : https://github.com/rover0811/DrugDiary </p>
 
 ---
 
