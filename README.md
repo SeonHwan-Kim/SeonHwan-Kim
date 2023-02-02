@@ -6,15 +6,9 @@
 <p align="center">Tech that I've used at least once</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/html-blue?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/css-red?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Javascript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/ReactNative-66C5DF?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C++-brightgreen?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-blue?style=flat-square&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Python-0B99D6?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 
 ---
