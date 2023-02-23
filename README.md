@@ -29,7 +29,7 @@
 
 <h3>terrace reserve service</h3></p>
 
-> 2022.08.15~</p>
+> 2022.08.15~(중단)</p>
 > 정보관 테라스 예약시스템 모바일 기반 웹</p>
 > `Soongsil DevCamp` `React-TypeScript` `netlify`</p>
 > 🛠 : https://github.com/Soongsil-Developers/terrace-web </p>
